@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](itms-services:///?action=download-manifest&url=https://github.com/sunjunyi/iOS-/blob/main/ios/app/manifest.plist).
 
 ### Jekyll Themes
 
