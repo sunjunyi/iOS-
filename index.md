@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sunjunyi/iOS-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](itms-services:///?action=download-manifest&url=https://github.com/sunjunyi/iOS-/blob/main/ios/app/manifest.plist).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunjunyi/iOS-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Monaco; color: #ce4954; -webkit-text-stroke: #ce4954; background-color: #1a1a1a}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Monaco; color: #b4b4b4; -webkit-text-stroke: #b4b4b4; background-color: #1a1a1a}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Monaco; color: #b4b4b4; -webkit-text-stroke: #b4b4b4}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Monaco; color: #5db174; -webkit-text-stroke: #5db174; background-color: #1a1a1a}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Monaco; color: #b4b4b4; -webkit-text-stroke: #b4b4b4; background-color: #1a1a1a; min-height: 16.0px}
+    span.s1 {font-kerning: none; color: #b4b4b4; -webkit-text-stroke: 0px #b4b4b4}
+    span.s2 {font-kerning: none}
+    span.s3 {font-kerning: none; color: #ce4954; -webkit-text-stroke: 0px #ce4954}
+    span.s4 {font-kerning: none; color: #5db174; -webkit-text-stroke: 0px #5db174}
+    span.s5 {font: 12.0px 'PingFang SC'; font-kerning: none}
+    span.s6 {font: 12.0px 'PingFang SC'; font-kerning: none; color: #b4b4b4; -webkit-text-stroke: 0px #b4b4b4}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;</span><span class="s2">DOCTYPE html</span><span class="s1">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">html</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"><br>
+</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">head</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>&lt;</span><span class="s3">meta charset</span><span class="s2">="</span><span class="s4">utf-8</span><span class="s2">"&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>&lt;</span><span class="s3">title</span><span class="s2">&gt;</span><span class="s5">测试下载</span><span class="s2">&lt;/</span><span class="s3">title</span><span class="s2">&gt;</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space">        </span>&lt;</span><span class="s3">meta name</span><span class="s1">="</span><span class="s2">viewport</span><span class="s1">"</span><span class="s3"> content</span><span class="s1">="</span><span class="s2">width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0</span><span class="s1">"</span><span class="s3"> </span><span class="s1">/&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">head</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"><br>
+</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">body</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>&lt;</span><span class="s3">a id</span><span class="s2">="</span><span class="s4">clickMe</span><span class="s2">"</span></p>
+<p class="p4"><span class="s3"><span class="Apple-converted-space">            </span>href</span><span class="s1">="</span><span class="s2">itms-services:///?action=download-manifest&amp;url=https://github.com/sunjunyi/iOS-/blob/main/ios/app/manifest.plist</span><span class="s1">”&gt;</span><span class="s6">点我下载</span><span class="s1">iOS</span><span class="s6">版本</span><span class="s1">&lt;/</span><span class="s3">a</span><span class="s1">&gt;</span></p>
+<p class="p5"><span class="s2"><span class="Apple-converted-space">        </span></span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">body</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"><br>
+</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">html</span><span class="s2">&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/</span><span class="s2">DOCTYPE</span><span class="s1">&gt;</span></p>
+</body>
+</html>
